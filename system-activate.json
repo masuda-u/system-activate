@@ -2,5 +2,6 @@
   "mcf-error-vba":true,
   "wmlp-vba":true,
   "vba-seizo":true,
+  "vbas":true,
   "soko-system":true
 }

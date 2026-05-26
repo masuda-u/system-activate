@@ -1,15 +1,15 @@
 {
   "false-test":false,
   "mcf-error-vba":true,
-  "wmlp-vba":true,
+  "wmlp-vba":false,
   "vba-seizo":true,
   "vbas":true,
-  "irepo":true,
+  "irepo":false,
   "soko-system":false,
   "Ukeire2K":false,
   "nouhinsho":90,
   "sokoPlist":90,
-  "HaraiAppCS":90,
+  "HaraiAppCS":0,
   "Ukeire2KintoneCS":90,
   "ZKensakuMRP":90
 }

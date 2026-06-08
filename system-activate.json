@@ -1,9 +1,9 @@
 {
   "false-test":false,
-  "mcf-error-vba":true,
+  "mcf-error-vba":false,
   "wmlp-vba":false,
   "vba-seizo":true,
-  "vbas":true,
+  "vbas":false,
   "irepo":false,
   "soko-system":false,
   "Ukeire2K":false,
